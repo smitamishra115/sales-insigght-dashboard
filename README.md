@@ -1,5 +1,8 @@
 # sales-insigght-dashboard
 
+
+🌐 **Live Demo**: [Click here to view the dashboard](https://sales-insigght-dashboard-sulgbvwy2pv4kusk7g3wcm.streamlit.app/)
+
 An interactive data analytics dashboard built with Python and Streamlit that analyzes retail sales data to uncover business insights around revenue, profitability, and regional/category performance.
 
 ## 📊 Overview
